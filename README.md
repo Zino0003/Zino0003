@@ -50,6 +50,9 @@ Scrapes 100 quotes across all pages of quotes.toscrape.com (author, quote, tags,
 ### [💱 Currency Exchange Tool](https://github.com/Zino0003/currency-tool)
 A CLI-based currency converter in Python supporting 160+ world currencies, fetching real-time exchange rates via ExchangeRate-API, with input validation, professional logging, and secure API key handling via `.env`.
 
+### [💻 Laptops Scraper](https://github.com/Zino0003/laptops-scraper)
+Scrapes 117 laptops across all pages of webscraper.io's e-commerce test site (name, price, reviews, stars, description), cleans and sorts the data with pandas, and exports it to a multi-sheet Excel file with automatic price statistics.
+
 ---
 
 ## 📫 Get in Touch
